@@ -3,13 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
+I've David Woodruff and these are the things I love:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* My family
+* My faith (I'm a [Mormon](https://www.mormon.org/))
+* Music
+* Reading
+* Programming
+* Food
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I can't think of anything else to say, so I'll now show you a few YouTube videos I like:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include youtubePlayer.html id="C2arm5ydeJc" %}
+{% include youtubePlayer.html id="b0tmUCHA6fo" %}
+{% include youtubePlayer.html id="4ia3gYSvG8M" %}
+{% include youtubePlayer.html id="2m8s18LrJxk" %}
+{% include youtubePlayer.html id="u1ZB_rGFyeU" %}
