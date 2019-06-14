@@ -1,4 +1,3 @@
-# Back Again!
 A year and a half later, I finally have another post on my blog! Here's what I've been doing lately:
 
 ## Lots of school
